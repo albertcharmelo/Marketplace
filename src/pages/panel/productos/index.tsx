@@ -1,9 +1,10 @@
+import React from "react";
 import PanelLayout from "@/layout/PanelLayout";
 const index = () => {
   return (
     <>
-      <PanelLayout menuSelection="inicio">
-        <div className="">Home</div>
+      <PanelLayout menuSelection="producto">
+        <div className="">Productos</div>
       </PanelLayout>
     </>
   );
