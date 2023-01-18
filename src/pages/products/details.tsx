@@ -1255,7 +1255,7 @@ const details = () => {
         </footer>
         {/* footer area end */}
         {/* JS here */}
-        <Script src="/assets/js/vendor/jquery-3.6.0.min.js"  strategy="lazyOnload"/>
+        <script src="/assets/js/vendor/jquery-3.6.0.min.js"></script>
         <Script src="/assets/js/bootstrap.bundle.min.js"  strategy="lazyOnload"/>
         <Script src="/assets/js/slick.min.js"  strategy="lazyOnload"/>
         <Script src="/assets/js/backToTop.js"  strategy="lazyOnload"/>
